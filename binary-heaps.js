@@ -75,5 +75,3 @@ console.log(maxHeap.removeMax(), maxHeap.values);
 console.log(maxHeap.removeMax(), maxHeap.values);
 console.log(maxHeap.removeMax(), maxHeap.values);
 console.log(maxHeap.removeMax(), maxHeap.values);
-console.log(maxHeap.removeMax(), maxHeap.values);
-console.log(maxHeap.removeMax(), maxHeap.values);
